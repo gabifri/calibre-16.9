@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 16:9 Outer Frame Silhouette -->
+    <path
+        android:fillColor="#8CCBFF"
+        android:pathData="M24,35 C24,32.8 25.8,31 28,31 L80,31 C82.2,31 84,32.8 84,35 L84,73 C84,75.2 82.2,77 80,77 L28,77 C25.8,77 24,75.2 24,73 Z M30,37 L30,71 L78,71 L78,37 Z" />
+    <!-- Calibration Crosshair & Circle -->
+    <path
+        android:fillColor="#5FD394"
+        android:pathData="M54,42 A12,12 0 1,0 54,66 A12,12 0 1,0 54,42 Z M54,46 A8,8 0 1,1 54,62 A8,8 0 1,1 54,46 Z" />
+    <!-- Corner Calibration Markers -->
+    <path
+        android:fillColor="#FFD24A"
+        android:pathData="M33,40 L41,40 L41,43 L36,43 L36,48 L33,48 Z M67,40 L75,40 L75,48 L72,48 L72,43 L67,43 Z M33,60 L36,60 L36,65 L41,65 L41,68 L33,68 Z M72,60 L75,60 L75,68 L67,68 L67,65 L72,65 Z" />
+</vector>

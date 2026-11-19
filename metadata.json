@@ -1,0 +1,6 @@
+{
+  "name": "Calibre 16:9",
+  "description": "Règle le format 16:9 et les couleurs de ton vidéoprojecteur sur Android et Android TV avec mires plein écran et analyse photo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
